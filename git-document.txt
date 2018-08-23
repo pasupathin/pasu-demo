@@ -1,0 +1,3 @@
+git config user.name "pasun" --->Local setup the account
+git config  user.name    Result Is --->pasun
+git config user.email "pasun459@gmail.com"
